@@ -47,7 +47,7 @@ Habilidades Técnicas Consolidadas
 
 ## 👨‍💻 Sobre o Autor
 Aruni van Amstel - Desenvolvedor Fullstack
-**Linkedin:** [https://www.linkedin.com/in/aruni-amstel-659158240/]
+**Linkedin:** [https://www.linkedin.com/in/aruni-van-amstel-659158240/]
 **Perfil Github:** [https://github.com/aruniamstel]
 **Contato:** [profissional.aruniamstel@gmail.com]
 
